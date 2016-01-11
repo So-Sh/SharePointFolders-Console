@@ -1,0 +1,8 @@
+C:\Users\saeed.davari\Documents\Projects\SharePoint Integration\Console SharePoint Folders\Console SharePoint Folders\bin\Debug\Console SharePoint Folders.exe.config
+C:\Users\saeed.davari\Documents\Projects\SharePoint Integration\Console SharePoint Folders\Console SharePoint Folders\obj\Debug\Console SharePoint Folders.csprojResolveAssemblyReference.cache
+C:\Users\saeed.davari\Documents\Projects\SharePoint Integration\Console SharePoint Folders\Console SharePoint Folders\bin\Debug\Console SharePoint Folders.exe
+C:\Users\saeed.davari\Documents\Projects\SharePoint Integration\Console SharePoint Folders\Console SharePoint Folders\bin\Debug\Console SharePoint Folders.pdb
+C:\Users\saeed.davari\Documents\Projects\SharePoint Integration\Console SharePoint Folders\Console SharePoint Folders\obj\Debug\Console SharePoint Folders.exe
+C:\Users\saeed.davari\Documents\Projects\SharePoint Integration\Console SharePoint Folders\Console SharePoint Folders\obj\Debug\Console SharePoint Folders.pdb
+C:\Users\saeed.davari\Documents\Projects\SharePoint Integration\Console SharePoint Folders\Console SharePoint Folders\bin\Debug\System.Json.dll
+C:\Users\saeed.davari\Documents\Projects\SharePoint Integration\Console SharePoint Folders\Console SharePoint Folders\bin\Debug\System.Json.xml
